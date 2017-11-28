@@ -1,2 +1,2 @@
-#!/bin/python3
+# I AM AUTHOR
 print('My first Git program!!!')
